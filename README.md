@@ -1,7 +1,3 @@
-Here’s a cleaner, more polished version that keeps your original idea but sounds more confident and hackathon-ready:
-
----
-
 # 🌱 Green Eats
 
 **Boilermake Hackathon 2025 Project**
